@@ -23,3 +23,12 @@ print(type('Asabeneh'))          # String
 print(type([1, 2, 3]))           # List
 print(type({'name': 'Asabeneh'}))  # Dictionary
 print(type({9.8, 3.14, 2.7}))    # Tuple
+
+
+"""This is multiline comment
+multiline comment takes multiple lines.
+python is eating the world
+"""
+
+distance = ((2-10)**2 / (3-8)**2)**0.5
+print(distance)
